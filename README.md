@@ -21,7 +21,7 @@ Welcome to our Unique Number Service, a robust Python Flask application designed
 bashCopy code
 
 `# Clone the repository
-git clone https://github.com/yourgithubrepo/number_server.git
+git clone https://github.com/bookdude/number_server.git
 
 # Navigate into the repository
 cd number_server
